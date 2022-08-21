@@ -1,7 +1,7 @@
 ## About the event
 Hello, welcome to the Quora Summer Challenge! 😎
 
-<p align="center">
+<p>
 <img src="https://media.giphy.com/media/BBRYCFRxcIlvTHXysO/giphy.gif" alt="This will display an animated GIF" >
 </p>
 
