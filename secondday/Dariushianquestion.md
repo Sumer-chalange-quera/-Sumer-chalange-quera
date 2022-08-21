@@ -20,3 +20,21 @@ When he went a little further, he realized that Darius the Great was greeting th
 
 Description of the problem
 Write a program in the file dorood-jahan.hashem to print the words Dorood Jahan. You can get the initial project file of this issue from this link. Inside the initial project, the following file can be seen:
+
+
+bebin azinja() {
+
+    // TODO: just print "Dorood Jahan" in mr-hashemi language
+    
+    // Full Documentation: https://mr-hashemi.github.io/mr-hashemi/
+    
+} 
+
+To get familiar with the syntax of Mr. Hashemi's language and to see the commands that can be used, be sure to see this link.
+
+Notes
+Do not forget that your file name must be equal to dorood-jahan.hashem.
+For a general introduction to these challenges, read the introduction section.
+If you encounter a problem, refer to Mr. Hashemi's language document in this link, this document is written in Persian language. ^_^
+
+https://mr-hashemi.github.io/mr-hashemi/
