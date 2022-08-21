@@ -1,5 +1,5 @@
 ## About the event
-Hello, welcome to the Quora Summer Challenge! 😎
+Hello, welcome to the Quera Summer Challenge! 😎
 
 <p>
 <img src="https://media.giphy.com/media/BBRYCFRxcIlvTHXysO/giphy.gif" alt="This will display an animated GIF" >
