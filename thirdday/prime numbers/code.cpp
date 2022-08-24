@@ -7,7 +7,7 @@ bool is_prime(int n)
     return true;
 }
 
-# true code
+# correct code
 bool is_prime(int n)
 {
     if(n==1 OR n==0):
