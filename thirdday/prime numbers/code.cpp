@@ -1,4 +1,4 @@
-# wrong code
+// wrong code
 bool is_prime(int n)
 {
     for (int i = 2; i < n; i++)
@@ -7,7 +7,7 @@ bool is_prime(int n)
     return true;
 }
 
-# correct code
+// correct code
 bool is_prime(int n)
 {
     if(n==1 || n==0)
